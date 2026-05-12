@@ -27,6 +27,9 @@ Collection of projects and exercises from my Programming Languages & Lab course 
 | 02 | **Salary Calculator** | Computes monthly salary from two salary inputs using modular programming |
 | 03 | **Team Evidence** | Team exercise on modular programming with parameter passing |
 | 04 | **Student Heights** | Calculates growth percentage of students using structs and arrays |
+| 05 | **Bubble Sort** | Sorts a user-defined integer array using the bubble sort algorithm, tracking comparisons and swaps |
+| 06 | **Fibonacci & Factorial** | Menu-driven program that computes Fibonacci or factorial series and calculates the average of selected elements |
+
 
 ### 🔹 Exams & PIA
 
@@ -50,3 +53,4 @@ Collection of projects and exercises from my Programming Languages & Lab course 
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
+
