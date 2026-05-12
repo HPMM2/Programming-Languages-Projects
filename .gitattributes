@@ -1,3 +1,0 @@
-*.rap linguist-detectable=false
-*.cpp linguist-language=C++
-*.c   linguist-language=C
