@@ -28,18 +28,13 @@ Collection of projects and exercises from my Programming Languages & Lab course 
 | 03 | **Team Evidence** | Team exercise on modular programming with parameter passing |
 | 04 | **Student Heights** | Calculates growth percentage of students using structs and arrays |
 
-### 🔹 Exams
+### 🔹 Exams & PIA
 
 | # | Project | Description |
 |---|---------|-------------|
 | 01 | **Midterm Exam** | Calculates monthly and cumulative car sales percentages using structs and arrays |
 | 02 | **Final Exam** | Employee payroll system with file handling, structs and control break reports |
 | 03 | **Extraordinary Exam** | Extended version of the payroll system |
-
-### 🔹 Final Project (PIA)
-
-| # | Project | Description |
-|---|---------|-------------|
 | — | **Team PIA** | Final team project using structs, arrays, modular programming and file handling |
 
 ---
